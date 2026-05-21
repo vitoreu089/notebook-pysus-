@@ -46,7 +46,7 @@ A utilização do WSL foi adotada para garantir maior compatibilidade com o PySU
 ## Estrutura do Projeto
 
 ```text
-projeto_dengue_pysus/
+projeto_dengue
 │
 ├── data/
 │   ├── raw/
@@ -65,7 +65,7 @@ projeto_dengue_pysus/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-````
+```
 
 ---
 
@@ -98,14 +98,10 @@ Contém o notebook principal da análise exploratória.
 
 No terminal do Windows, abra o WSL:
 
-```bash
-wsl
-```
-
-Depois, acesse a pasta do projeto:
+E depois, acesse a pasta do projeto:
 
 ```bash
-cd ~/projeto_dengue_pysus
+cd ~/projeto_dengue
 ```
 
 ---
@@ -266,4 +262,3 @@ Dessa forma, os resultados não devem ser interpretados como relações causais,
 **Vitor Emanuel Santos Cruz**
 
 Email: `vitoremanuelsc089@gmail.com`
-
