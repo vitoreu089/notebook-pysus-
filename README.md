@@ -221,7 +221,6 @@ As principais bibliotecas utilizadas foram:
 * `pandas`
 * `numpy`
 * `matplotlib`
-* `seaborn`
 * `pysus`
 * `pyarrow`
 * `ipykernel`
@@ -267,19 +266,3 @@ Dessa forma, os resultados não devem ser interpretados como relações causais,
 **Vitor Emanuel Santos Cruz**
 Email: `vitoremanuelsc089@gmail.com`
 
-````
-
-Uma sugestão importante: no seu `requirements.txt`, garanta que tenha pelo menos:
-
-```txt
-pandas
-numpy
-matplotlib
-seaborn
-pysus==1.0.1
-pyarrow
-ipykernel
-jupyter
-````
-
-Como você usa `.parquet`, o `pyarrow` é essencial.
