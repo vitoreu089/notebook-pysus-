@@ -1,0 +1,5 @@
+pandas
+matplotlib
+pysus==1.0.1
+ipykernel
+pyarrow
