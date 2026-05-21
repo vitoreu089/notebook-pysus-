@@ -264,5 +264,6 @@ Dessa forma, os resultados não devem ser interpretados como relações causais,
 ## Autor
 
 **Vitor Emanuel Santos Cruz**
+
 Email: `vitoremanuelsc089@gmail.com`
 
