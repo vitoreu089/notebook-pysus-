@@ -159,12 +159,13 @@ data/processed/dengue_moc_limpo.parquet
 ---
 
 ### 7. Abrir o notebook
-
-Com o ambiente virtual ativado, abra o VS Code pelo WSL:
-
-```bash
-code .
-```
+> **Observação:** para abrir o projeto corretamente pelo VS Code dentro do WSL, é necessário ter instalada a extensão oficial **WSL** da Microsoft no VS Code. Após instalar a extensão, abra o terminal do WSL, acesse a pasta do projeto e execute:
+>
+> ```bash
+> code .
+> ```
+>
+> No canto inferior esquerdo do VS Code deve aparecer algo como `WSL: Ubuntu`, indicando que o projeto está aberto no ambiente correto.
 
 Depois, abra o notebook:
 
